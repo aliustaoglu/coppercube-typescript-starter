@@ -1,0 +1,13 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+      "target": "ES3",
+      "module": "commonjs",
+      "outDir": "dist",
+      "rootDir": "./src",
+      "strict": false,
+      "ignoreDeprecations": "5.0",
+      "suppressImplicitAnyIndexErrors": true
+    }
+  }
+  

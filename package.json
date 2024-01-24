@@ -1,0 +1,23 @@
+{
+  "name": "coppercube-typescript-starter",
+  "version": "1.0.0",
+  "description": "Minimal CopperCube 6 boilerplate for TypeScript and code completion",
+  "main": "index.ts",
+  "scripts": {
+    "concat": "node concatenater.js",
+    "build": "tsc --watch"
+  },
+  "keywords": [
+    "coppercube",
+    "typescript",
+    "game engine",
+    "indiegame",
+    "indiedev",
+    "gamedev"
+  ],
+  "author": "Cuneyt Aliustaoglu",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
